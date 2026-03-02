@@ -1,0 +1,20 @@
+{
+  "codebase": {
+    "frontend": [
+        {"name": "App.tsx", "type": "file"},
+        {"name": "TicketService.ts", "type": "file"},
+        {"name": "types.ts", "type": "file"},
+        {"name": "index.css", "type": "file"}
+    ],
+    "motia-backend": [
+        {"name": "main.py", "type": "file"},
+        {"name": "routes.py", "type": "file"}
+    ]
+  },
+  "console-src": {
+    "packages": [
+        {"name": "console-frontend", "type": "directory"},
+        {"name": "console-rust", "type": "directory"}
+    ]
+  }
+}
