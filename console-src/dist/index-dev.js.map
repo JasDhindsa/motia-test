@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../index-dev.js"],
+  "sourcesContent": ["import { Motia, initIII } from 'motia'\n// No motia.config.ts found\n\ninitIII();\nconst motia = new Motia();\n\n// No authenticateStream found in motia.config.ts\nmotia.initialize();"],
+  "mappings": ";AAAA,SAAS,OAAO,eAAe;AAG/B,QAAQ;AACR,IAAM,QAAQ,IAAI,MAAM;AAGxB,MAAM,WAAW;",
+  "names": []
+}
